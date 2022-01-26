@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '10386181269b499f8345d972457e64ce',
+  rootNotionPageId: 'b05c02eecf2c401c83010bba45146f7c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'zxlben',
-  domain: 'https://chief-mistake-14e.notion.site/ben-10386181269b499f8345d972457e64ce',
+  domain: 'https://chief-mistake-14e.notion.site/Club-Homepage-b05c02eecf2c401c83010bba45146f7c',
   author: '赵小磊ben',
 
   // open graph metadata (optional)
