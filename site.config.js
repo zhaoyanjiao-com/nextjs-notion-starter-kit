@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'zxlben',
   domain: 'https://chief-mistake-14e.notion.site/ben-10386181269b499f8345d972457e64ce',
-  author: 'zyj',
+  author: '赵小磊ben',
 
   // open graph metadata (optional)
   description: 'Example site description',
