@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'zhaoyanjiao-com',
+  name: 'zxlben',
   domain: 'https://chief-mistake-14e.notion.site/Club-Homepage-b05c02eecf2c401c83010bba45146f7c',
   author: '赵小磊ben',
 
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'zxlben',
+  github: 'zhaoyanjiao-com',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
